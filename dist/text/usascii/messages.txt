@@ -1,0 +1,12 @@
+-L.launcher.label
+Calculator
+#
+#
+-L.launcher.cmd
+C:\Windows\system32\calc.exe
+#
+#
+-L.launcher.ico
+calculator.png
+#
+#

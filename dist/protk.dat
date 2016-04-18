@@ -1,0 +1,9 @@
+NAME                Launcher
+STARTUP             JAVA
+JAVA_APP_CLASS      jlink.Launcher
+JAVA_APP_START      start
+JAVA_APP_STOP       stop
+JAVA_APP_CLASSPATH  c:\jlink-first\dist
+TEXT_DIR            c:\jlink-first\dist
+ALLOW_STOP          TRUE
+END
