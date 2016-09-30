@@ -3,7 +3,7 @@ STARTUP             JAVA
 JAVA_APP_CLASS      jlink.Launcher
 JAVA_APP_START      start
 JAVA_APP_STOP       stop
-JAVA_APP_CLASSPATH  c:\jlink-first\dist
-TEXT_DIR            c:\jlink-first\dist
+JAVA_APP_CLASSPATH  c:\jlink-first-master\dist
+TEXT_DIR            c:\jlink-first-master\dist
 ALLOW_STOP          TRUE
 END
